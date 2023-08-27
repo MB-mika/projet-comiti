@@ -1,5 +1,5 @@
 # projet-comiti
-test-devis
+formulaire devis
 
 pour pouvoir ce connecter au login :
 pseudo: arnaud
